@@ -1,0 +1,28 @@
+{
+  "name": "keys-safestorage-parser",
+  "version": "1.0.0",
+  "description": "Parse and manage key storage configurations with ease, simplifying key management tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aquar3ign/keys-safestorage-parser"
+  },
+  "author": "aquar3ign",
+  "license": "MIT",
+  "dependencies": {
+    "keys-safestorage-util": "1.0.0",
+    "keys-safestorage-parser": "1.0.0",
+    "helmet": "1.0.0",
+    "jquery": "1.0.0",
+    "bluebird": "1.0.0",
+    "enzyme": "1.0.0",
+    "commander": "1.0.0",
+    "axios": "1.0.0",
+    "mongoose": "1.0.0",
+    "supertest": "1.0.0",
+    "ethereumjs-util": "1.0.0"
+  }
+}
